@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shengxin Xia
 
-<!--
-**milesx6/milesx6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Security Researcher
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Specializing in Android security research and vulnerability discovery
+- Awarded **TOP Android Researcher** at Google bugSWAT 2024 (Málaga, Spain)
+- Passionate about mobile security, reverse engineering, and exploit development
+
+## Research Interests
+
+- Android Framework Security
+- Mobile Application Security
+- Vulnerability Research & Exploitation
+
+## Get in Touch
+
+Email: [xiashengxin520@gmail.com](mailto:xiashengxin520@gmail.com)
